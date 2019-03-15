@@ -1,0 +1,21 @@
+{
+  "name": "c-template",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd src && make run",
+    "clean": "cd src && make clean",
+    "degub": "cd src && make debug"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogocapela/c-template.git"
+  },
+  "author": "Diogo Capela",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diogocapela/c-template/issues"
+  },
+  "homepage": "https://github.com/diogocapela/c-template#readme"
+}
